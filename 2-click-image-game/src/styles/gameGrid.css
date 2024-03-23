@@ -1,0 +1,15 @@
+.grid-wrapper {
+  max-width: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.grid-wrapper .img-item {
+  max-width: 100px;
+}
+
+.the-valid-img {
+  border-radius: 10px;
+  cursor: pointer;
+}
